@@ -10,7 +10,7 @@ Trivia time is a quiz game. You choose the difficulty level you want to play on 
 1. Clone this repository
 
 ```bash
-git clone 
+git clone https://github.com/ilirs/trivia-time.git
 ```
 2. Install the dependencies
 
