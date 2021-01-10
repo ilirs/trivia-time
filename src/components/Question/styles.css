@@ -1,0 +1,18 @@
+.question{
+    text-align: center;
+    font-family: montserrat;
+    font-size: 25px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 15px rgba(0, 0, 0, 0.5);
+}
+
+
+@media only screen and (min-width: 992px) {
+    .question{
+        width: 500px;
+    }
+}
