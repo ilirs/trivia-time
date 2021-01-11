@@ -38,6 +38,7 @@ Deploying a Trivia time app to Amazon S3 using Github Actions.
 #### - Setup Github Actions (create workflow file .yml)
 #### - Deploy a Trivia App to S3 Bucket
 
+Live on [Trivia Time App Live](http://s3-trivia-time.s3-website.eu-central-1.amazonaws.com/)
 
 ## Reflection
 
