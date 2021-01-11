@@ -5,6 +5,7 @@
     margin-right: auto;
     align-items: center;
     min-height: 100vh;
+    min-height: -webkit-fill-available;
     background: linear-gradient(197.54deg, #9C72FF 0%, #865BF0 100%);
 }
 .title{
